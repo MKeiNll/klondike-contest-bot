@@ -1,5 +1,3 @@
-# klondike-contest-bot
+# Klondike contest bot
 
-A Telegram bot made for @CryptoKlondike contest
-
-Run with ./gradlew run
+A Telegram bot made for @CryptoKlondike contest.
